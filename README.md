@@ -24,5 +24,14 @@ A camera-based virtual mouse system that allows users to control the mouse curso
 
 ## 🎯 Use Cases
 - Touchless computer interaction
+
+## 📌 Project Highlights
+- Real-time hand gesture tracking using MediaPipe
+- Cursor movement mapped smoothly to screen resolution
+- Click detection using finger distance logic
+- Implemented smoothing to reduce cursor jitter
+
+## 👩‍💻 Author
+Richa Rajput   
 - Accessibility solutions
 - Computer vision learning project
